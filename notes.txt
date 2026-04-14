@@ -1,2 +1,2 @@
-Conflict branch version
+Main branch version
 Hello from my new branch!
