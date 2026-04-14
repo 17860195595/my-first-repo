@@ -1,2 +1,2 @@
-This is my first time using git.
+Main branch version
 Hello from my new branch!
